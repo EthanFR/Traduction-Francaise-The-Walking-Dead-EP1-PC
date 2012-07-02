@@ -9,19 +9,19 @@ Là où il n'y a pas de choix, nous ferions bien de faire aucune difficulté.
 5)  
 Les plus durement touchés, comme partout, sont ceux qui n'ont pas le choix.
 6)  
-Vous semblez un peu paranoïaque
+Vous semblez un peu paranoïaque.
 7)  
-Vous semblez un peu déprimé
+Vous semblez un peu déprimé.
 8)  
-L'officier ne vous aime pas beaucoup
+L'officier ne vous aime pas beaucoup.
 9)  
-Imaginons que vous n'avez rien à dire
+Imaginons que vous n'avez rien à dire.
 10)  
 Vous avez été poli pour l'adjoint.
 11)  
-CHOIX:  L'adjoint pense que vous être sur la défensive.
+CHOIX:  L'adjoint pense que vous êtes sur la défensive.
 12)  
-CHOIX:  L'adjoint pensais que vous étiez poli.
+CHOIX:  L'adjoint pensait que vous étiez poli.
 13)  
 CHOIX:  Vous l'avez joué cool.
 14)  
@@ -45,10 +45,9 @@ CHOIX:  Vous fouinez dans les alentours.
 23)  
 CHOIX:  Vous en avez découvert un peu plus sur la famille qui a vécu ici.
 24)  
-CHOIX:  Clémentine est un peu affrayée par vous.
+CHOIX:  Vous effrayez un peu Clémentine.
 25)  
-CHOIX:  Vous avez montré 
-de la compassion pour Clémentine.
+CHOIX:  Vous avez montré de la compassion pour Clémentine.
 26)  
 CHOIX:  Vous choisissez quelque chose.
 27)  
@@ -64,7 +63,7 @@ Vous avez dit un pieux mensonge pour rendre les choses plus faciles.
 31)  
 CHOIX:  Vous avez été sincère.
 32)  
-Shawn a tirer sa propre conclusion.
+Shawn a tiré sa propre conclusion.
 33)  
 CHOIX: Vous avez dit un pieux mensonge.
 34)  
@@ -78,7 +77,7 @@ CHOIX:  Vous avez ignoré Hershel.
 38)  
 CHOIX:  Vous avez dit la vérité.
 39)  
-CHOIX:  Hershel doute votre honnêteté.
+CHOIX:  Hershel doute de votre honnêteté.
 40)  
 CHOIX:  Vous avez menti à Hershel.
 41)  
@@ -130,15 +129,15 @@ Kenny se souviendra de votre fidélité.
 64)  
 Kenny a remarqué ça.
 65)  
-Kenny noté que vous n'aviez pas son dos.
+Kenny a noté que vous n'aviez pas son dos.
 66)  
-Vous attiré l'attention de Larry sur Clémentine.
+Vous attirez l'attention de Larry sur Clémentine.
 67)  
-Clémentine a été blessé par ça.
+Clémentine a été blessée par ça.
 68)  
-Clementine comprends.
+Clementine comprend.
 69)  
-Clémentine a remarqué que vous l'avez ignoré.
+Clémentine a remarqué que vous l'avez ignorée.
 70)  
 TEST 5 SECOND DELAY
 71)  
@@ -148,15 +147,15 @@ Shawn pense que vous êtes le babysitter maintenant.
 73)  
 Shawn a noté que vous avez dit.
 74)  
-Clémentine est vraiment bouleversé maintenant.
+Clémentine est vraiment bouleversée maintenant.
 75)  
-Vous avez aidé Clémentine en se calmer un peu.
+Vous avez aidé Clémentine à se calmer un peu.
 76)  
-Le patrouilleur a entendu ça.
+Le policier a entendu ça.
 77)  
-Le patrouilleur l'a ramassé sur ça.
+Le policier l'a ramassé sur ça.
 78)  
-Clem se souviendra de votre protection.
+Clem se souviendra que vous l'avez protégée.
 79)  
 Clémentine se souviendra que vous ne l'avez pas sauvée.
 80)  
@@ -184,7 +183,7 @@ Vous avez aidé la jeune fille.
 91)  
 Vous avez refusé la demande de la jeune fille.
 92)  
-Vous avez choisi de sauver Doug
+Vous avez choisi de sauver Doug.
 93)  
 Vous avez choisi de sauver Carley.
 94)  
@@ -194,9 +193,9 @@ L'adjoint a pris la relève.
 96)  
 Le policier a tenté de combler le silence.
 97)  
-Carley se souviendra que vous l'ayez cru.
+Carley se souviendra que vous l'avez cru.
 98)  
-Carley se souviendra que vous l'ayez pas cru.
+Carley se souviendra que vous l'avez pas cru.
 99)  
 Clem se sent pleine d'espoir de revoir ses parents.
 100)  
@@ -216,37 +215,37 @@ Vous n'avez fait pas de choix.
 148)  
 Vous n'avez fait pas de choix.
 107)  
-Vous avez pris la responsabilité sur vous.
+Vous avez endossé la responsabilité.
 108)  
 Vous avez défendu Kenny.
 109)  
-Vous blâmé Kenny.
+Vous avez critiqué Kenny.
 110)  
-Hershel ne vous blâme pas de toute façon.
+Hershel ne vous reproche rien de toute façon.
 111)  
 Clémentine va bien.
 112)  
-Vous choisissez quelque chose.
+Vous avez choisi quelque chose.
 113)  
-L'officier pense que vous être sur la défensive.
+L'officier pense que vous êtes sur la défensive.
 114)  
 Vous éludez encore.
 115)  
 L'officier pensais que vous étiez poli.
 116)  
-L'officier remarqué votre silence.
+L'officier a remarqué votre silence.
 117)  
 Vous l'avez joué cool.
 118)  
 L'adjoint ne vous aime pas beaucoup.
 119)  
-Vous choisissez d'être curieux.
+Vous avez choisi d'être curieux.
 120)  
-Vous choisissez d'éluder la question.
+Vous avez choisi d'éluder la question.
 121)  
-Vous choisissez d'en plaisanter.
+Vous avez choisi d'en plaisanter.
 122)  
-Vous choisissez de garder le silence.
+Vous avez choisi de garder le silence.
 123)  
 Clémentine semble avoir peur.
 124)  
@@ -264,23 +263,23 @@ Il a pris ça.
 131)  
 Clémentine se souviendra de ça.
 132)  
-Vous avez montré un intérêt à sa famille.
+Vous avez montré un intérêt pour sa famille.
 133)  
-Vous avez eu connaissance du bateau de Kenny.
+Vous avez appris pour le bateau de Kenny.
 134)  
 Vous avez appris que Katjaa est une vétérinaire.
 135)  
-Katjaa appris vous avez été licensié.
+Katjaa a appris que vous avez été licencié.
 136)  
 Katjaa se souviendra de ça.
 137)  
-Vous avez appris Clémentine est une élève de CE1.
+Vous avez appris Clémentine est en CE1.
 138)  
 Shawn n'est pas d'accord.
 139)  
 Shawn a remarqué votre silence.
 140)  
-Shawn n'oublira pas ça.
+Shawn n'oubliera pas ça.
 141)  
 Vous n'avez rien dit.
 142)  
@@ -288,10 +287,10 @@ Vous n'avez pas soutenu Kenny.
 143)  
 Vous avez fait un choix difficile.
 144)  
-Kenny se souviendra de ça.
+Kenny s'en souviendra.
 145)  
-Kenny se souviendra de ça.
+Kenny s'en souviendra.
 146)  
-Kenny se souviendra de ça.
+Kenny s'en souviendra.
 147)  
 Vous n'avez rien fait.
