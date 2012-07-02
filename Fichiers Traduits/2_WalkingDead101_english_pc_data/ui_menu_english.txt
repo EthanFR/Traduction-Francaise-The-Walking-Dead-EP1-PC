@@ -29,11 +29,11 @@ MUSIQUE
 14)  
 SON
 15)  
-RÉGLAGES GRAPHIQUE
+RÉGLAGES GRAPHIQUES
 16)  
 VALIDER
 17)  
-POST TRAITEMENT
+POST-TRAITEMENT
 18)  
 ON
 19)  
@@ -193,7 +193,7 @@ A CHAQUE DETOUR
 92)  
 PLUS DE TEMPS
 93)  
-La progréssion est enregistrés chaque fois que cet indicateur est affiché. S'il vous plaît ne vous déconnectez ou éteignez pas votre console alors que l'indicateur est sur l'écran.
+La progression est enregistrée chaque fois que cet indicateur est affiché. S'il vous plaît ne vous déconnectez ou éteignez pas votre console alors que l'indicateur est sur l'écran.
 94)  
 REMBOBINER
 95)  
@@ -439,15 +439,15 @@ Vous et
 216)  
 des joueurs
 217)  
-Avertissement: Tout les progres réalisés depuis votre dernier point de contrôle sera perdu ! Etes-vous sur de vouloir continuer ?
+Avertissement: Tout progres réalisé depuis votre dernier point de contrôle sera perdu ! Etes-vous sur de vouloir continuer ?
 218)  
 ANNULER
 220)  
 PROCHAINEMENT
 221)  
-Tout progres réalisés depuis la derniere sauvegarde automatique sera perdu. Etes-vous sur de vouloir quitter le jeu ?
+Tout progres réalisé depuis la derniere sauvegarde automatique sera perdu. Etes-vous sur de vouloir quitter le jeu ?
 241)  
-Tout progres réalisés depuis la derniere sauvegarde automatique sera perdu. Etes-vous sur de vouloir quitter le jeu ?
+Tout progres réalisé depuis la derniere sauvegarde automatique sera perdu. Etes-vous sur de vouloir quitter le jeu ?
 222)  
 STANDARD:
 223)  
