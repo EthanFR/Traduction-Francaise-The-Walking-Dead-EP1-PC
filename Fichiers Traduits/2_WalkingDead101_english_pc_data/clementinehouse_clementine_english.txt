@@ -7,7 +7,7 @@ Oui.
 4)  
 Je sais pas. Je pense.
 5)  
-Ou quelque chose d'autre l'a tué.
+Ou quelque chose d'autre l'a fait.
 7)  LEE
 {normalD}{body-c2}Oui.
 8)  LEE
@@ -21,7 +21,7 @@ Ou quelque chose d'autre l'a tué.
 12)  LEE
 {thinkingB} {body-c2} Je sais pas. {sadA} Je pense.
 13)  LEE
-{thinkingB} {body-c2}Je pense que quelque chose d'autre l'a tué. {normalD} Avant moi, {sadA} je pense.
+{thinkingB} {body-c2}Je pense que quelque chose d'autre l'a fait. {normalD} Avant moi, {sadA} je pense.
 14)  CLEMENTINE
 {sadC} {body-handonwrist}J'ai entendu son cri il y a deux nuits. {fearA} Peut-être qu'un des monstres l'a eue.
 15)  LEE
@@ -55,11 +55,11 @@ Ouais, allons le vérifier.
 29)  LEE
 {normalD} Salut.
 30)  
-Cherche de l'aide, avant qu'il ne fasse nuit.
+Chercher de l'aide, avant qu'il ne fasse nuit.
 31)  CLEMENTINE
 [pickup1] [nerveuse, effrayée] Qu'est-ce qu'on fait maintenant ?
 32)  
-Sortir d'ici une fois le soleil couché.
+Sortir d'ici une fois le soleil couche.
 33)  LEE
 [pickup3] Nous devrions chercher de l'aide... ["maintenant" ou "plus tard"]
 34)  CLEMENTINE
